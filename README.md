@@ -1,3 +1,4 @@
+<img width="1000" height="200" alt="lightning" src="https://github.com/user-attachments/assets/b6fcc287-157f-4b73-899d-6c8d249ecb1b" />
 <div align="center">
 
 <img src="./lightning.svg" width="100%" alt="raios"/>
