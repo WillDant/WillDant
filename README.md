@@ -1,21 +1,64 @@
-## welcome to Willian's profile!
+<h1 align="center">Oi, eu sou o Willian 👋</h1>
 
-### hey there! I'm a Brazilian developer!  📖
-<div>
-  <a href="https://github.com/willdant">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=willdant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdant&layout=compact&langs_count=7&theme=tokyonight"/>
+<p align="center">
+  <b>Delivery Engineer · Agentic Engineer @ Fintalk</b><br>
+  Construindo agentes de IA conversacional, automações e integrações que conversam de verdade.
+</p>
+
+---
+
+### 🤖 O que eu faço
+
+- 🧠 Desenvolvo **agentes de IA conversacional** para cobrança e atendimento — do protótipo à produção
+- 🔌 Conecto sistemas via **REST APIs** e orquestro fluxos de automação no **n8n**
+- 📈 Mantenho tudo observável e saudável com **Datadog**
+- ✍️ Vivo de **prompt engineering** e avalio LLMs por custo e latência, não por hype
+- 🧩 Crio skills e ferramentas pra deixar o trabalho mais agêntico (e menos repetitivo)
+
+---
+
+### 🛠️ Stack & ferramentas
+
+**Linguagens**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Automação & Integração**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+**IA & LLMs**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Observabilidade & Colaboração**
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub em números
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=willdant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdant&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+
+---
+
+### 🔗 Onde me achar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/willian-dantas-092b8b215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
-  
-<div>
-  <a href="https://www.instagram.com/danielwod_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/willian-dantas-092b8b215/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+<p align="center"><i>Sempre construindo algo que automatiza o tédio. ⚡</i></p>
