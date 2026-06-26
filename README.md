@@ -1,64 +1,24 @@
-<h1 align="center">Oi, eu sou o Willian 👋</h1>
-
-<p align="center">
-  <b>Delivery Engineer · Agentic Engineer @ Fintalk</b><br>
-  Construindo agentes de IA conversacional, automações e integrações que conversam de verdade.
-</p>
-
----
-
-### 🤖 O que eu faço
-
-- 🧠 Desenvolvo **agentes de IA conversacional** para cobrança e atendimento — do protótipo à produção
-- 🔌 Conecto sistemas via **REST APIs** e orquestro fluxos de automação no **n8n**
-- 📈 Mantenho tudo observável e saudável com **Datadog**
-- ✍️ Vivo de **prompt engineering** e avalio LLMs por custo e latência, não por hype
-- 🧩 Crio skills e ferramentas pra deixar o trabalho mais agêntico (e menos repetitivo)
-
----
-
-### 🛠️ Stack & ferramentas
-
-**Linguagens**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Automação & Integração**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Postman](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-**IA & LLMs**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Observabilidade & Colaboração**
-
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub em números
-
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=willdant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdant&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f1119,100:7c3aed&height=170&section=header&text=Willian%20Dantas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%E2%9A%A1%20Agentic%20Engineer%20%E2%80%94%20IA%20conversacional%20%2B%20automa%C3%A7%C3%A3o&descAlignY=66&descSize=17&descColor=c4b5fd"/>
+
+<br><br>
+
+<kbd>JavaScript</kbd> <kbd>Python</kbd> <kbd>n8n</kbd> <kbd>REST APIs</kbd> <kbd>Claude</kbd> <kbd>OpenAI</kbd> <kbd>Datadog</kbd>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=js,python,postman,git,docker&theme=dark" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/n8n-0f1119?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+<img src="https://img.shields.io/badge/Claude-0f1119?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/OpenAI-0f1119?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Datadog-0f1119?style=for-the-badge&logo=datadog&logoColor=A78BFA"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/willian-dantas-092b8b215/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0f1119?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
 </div>
-
----
-
-### 🔗 Onde me achar
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/willian-dantas-092b8b215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
-
-<p align="center"><i>Sempre construindo algo que automatiza o tédio. ⚡</i></p>
