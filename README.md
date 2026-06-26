@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f1119,100:7c3aed&height=170&section=header&text=Willian%20Dantas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%E2%9A%A1%20Agentic%20Engineer%20%E2%80%94%20IA%20conversacional%20%2B%20automa%C3%A7%C3%A3o&descAlignY=66&descSize=17&descColor=c4b5fd"/>
+<img src="./lightning.svg" width="100%" alt="raios"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&pause=1500&color=A78BFA&center=true&vCenter=true&width=620&height=45&lines=Willian+Dantas;Agentic+Engineer+%E2%9A%A1" alt="Willian Dantas"/>
+
+<sub>IA conversacional &nbsp;·&nbsp; automação &nbsp;·&nbsp; integrações</sub>
 
 <br><br>
 
@@ -8,7 +12,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=js,python,postman,git,docker&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=js,python,postman,git,docker&theme=dark" height="46"/>
 &nbsp;
 <img src="https://img.shields.io/badge/n8n-0f1119?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
 <img src="https://img.shields.io/badge/Claude-0f1119?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
