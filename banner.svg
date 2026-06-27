@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 500" width="820" height="500" fill="none" role="img" aria-label="Tech stack orbit">
+  <defs>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bolt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#D97757"/>
+    </linearGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .ring  { fill:none; stroke:#1c2030; stroke-width:1.5; }
+      .chip  { font:600 13px 'Segoe UI','Helvetica Neue',Arial,sans-serif; }
+      .leg   { font:600 12px 'Segoe UI',Arial,sans-serif; fill:#8b93a7; letter-spacing:1px; }
+      .ai    { fill:#0f1119; stroke:#D97757; stroke-width:1.5; }
+      .ait   { fill:#F0B49A; }
+      .lang  { fill:#0f1119; stroke:#A78BFA; stroke-width:1.5; }
+      .langt { fill:#C4B5FD; }
+      .tool  { fill:#0f1119; stroke:#566074; stroke-width:1.5; }
+      .toolt { fill:#9aa4b8; }
+      .pulse { animation:pulse 3s ease-in-out infinite; transform-origin:410px 230px; }
+      @keyframes pulse { 0%,100%{opacity:.8;transform:scale(1)} 50%{opacity:1;transform:scale(1.12)} }
+    </style>
+  </defs>
+
+  <rect width="820" height="500" fill="#0f1119"/>
+  <ellipse cx="410" cy="230" rx="260" ry="240" fill="url(#core)"/>
+
+  <!-- orbit guides -->
+  <circle class="ring" cx="410" cy="230" r="80"/>
+  <circle class="ring" cx="410" cy="230" r="140"/>
+  <circle class="ring" cx="410" cy="230" r="205"/>
+
+  <!-- core -->
+  <g class="pulse" filter="url(#soft)">
+    <circle cx="410" cy="230" r="34" fill="#0f1119" stroke="url(#bolt)" stroke-width="2"/>
+    <text x="410" y="230" text-anchor="middle" dominant-baseline="central" fill="url(#bolt)" font="700 26px 'Segoe UI',Arial,sans-serif" style="font:700 26px 'Segoe UI','Helvetica Neue',Arial,sans-serif; letter-spacing:1px;">WD</text>
+  </g>
+
+  <!-- inner ring · AI  (r80, dur 18) -->
+  <g class="chip"><rect class="ai" x="-32" y="-15" width="64" height="30" rx="15"/><text class="ait" x="0" y="5" text-anchor="middle">Claude</text>
+    <animateMotion dur="18s" repeatCount="indefinite" begin="0s" path="M410,150 a80,80 0 1,1 0,160 a80,80 0 1,1 0,-160"/></g>
+  <g class="chip"><rect class="ai" x="-34" y="-15" width="68" height="30" rx="15"/><text class="ait" x="0" y="5" text-anchor="middle">OpenAI</text>
+    <animateMotion dur="18s" repeatCount="indefinite" begin="-6s" path="M410,150 a80,80 0 1,1 0,160 a80,80 0 1,1 0,-160"/></g>
+  <g class="chip"><rect class="ai" x="-26" y="-15" width="52" height="30" rx="15"/><text class="ait" x="0" y="5" text-anchor="middle">n8n</text>
+    <animateMotion dur="18s" repeatCount="indefinite" begin="-12s" path="M410,150 a80,80 0 1,1 0,160 a80,80 0 1,1 0,-160"/></g>
+
+  <!-- mid ring · languages (r140, reverse, dur 26) -->
+  <g class="chip"><rect class="lang" x="-48" y="-15" width="96" height="30" rx="15"/><text class="langt" x="0" y="5" text-anchor="middle">JavaScript</text>
+    <animateMotion dur="26s" repeatCount="indefinite" begin="0s" path="M410,90 a140,140 0 1,0 0,280 a140,140 0 1,0 0,-280"/></g>
+  <g class="chip"><rect class="lang" x="-36" y="-15" width="72" height="30" rx="15"/><text class="langt" x="0" y="5" text-anchor="middle">Python</text>
+    <animateMotion dur="26s" repeatCount="indefinite" begin="-6.5s" path="M410,90 a140,140 0 1,0 0,280 a140,140 0 1,0 0,-280"/></g>
+  <g class="chip"><rect class="lang" x="-40" y="-15" width="80" height="30" rx="15"/><text class="langt" x="0" y="5" text-anchor="middle">Node.js</text>
+    <animateMotion dur="26s" repeatCount="indefinite" begin="-13s" path="M410,90 a140,140 0 1,0 0,280 a140,140 0 1,0 0,-280"/></g>
+  <g class="chip"><rect class="lang" x="-46" y="-15" width="92" height="30" rx="15"/><text class="langt" x="0" y="5" text-anchor="middle">REST APIs</text>
+    <animateMotion dur="26s" repeatCount="indefinite" begin="-19.5s" path="M410,90 a140,140 0 1,0 0,280 a140,140 0 1,0 0,-280"/></g>
+
+  <!-- outer ring · tooling & ops (r205, dur 34) -->
+  <g class="chip"><rect class="tool" x="-38" y="-15" width="76" height="30" rx="15"/><text class="toolt" x="0" y="5" text-anchor="middle">Docker</text>
+    <animateMotion dur="34s" repeatCount="indefinite" begin="0s" path="M410,25 a205,205 0 1,1 0,410 a205,205 0 1,1 0,-410"/></g>
+  <g class="chip"><rect class="tool" x="-25" y="-15" width="50" height="30" rx="15"/><text class="toolt" x="0" y="5" text-anchor="middle">Git</text>
+    <animateMotion dur="34s" repeatCount="indefinite" begin="-8.5s" path="M410,25 a205,205 0 1,1 0,410 a205,205 0 1,1 0,-410"/></g>
+  <g class="chip"><rect class="tool" x="-42" y="-15" width="84" height="30" rx="15"/><text class="toolt" x="0" y="5" text-anchor="middle">Datadog</text>
+    <animateMotion dur="34s" repeatCount="indefinite" begin="-17s" path="M410,25 a205,205 0 1,1 0,410 a205,205 0 1,1 0,-410"/></g>
+  <g class="chip"><rect class="tool" x="-42" y="-15" width="84" height="30" rx="15"/><text class="toolt" x="0" y="5" text-anchor="middle">Postman</text>
+    <animateMotion dur="34s" repeatCount="indefinite" begin="-25.5s" path="M410,25 a205,205 0 1,1 0,410 a205,205 0 1,1 0,-410"/></g>
+
+  <!-- legend -->
+  <g transform="translate(255,478)">
+    <circle cx="0"   cy="-4" r="5" fill="#D97757"/><text class="leg" x="12" y="0">AI</text>
+    <circle cx="90"  cy="-4" r="5" fill="#A78BFA"/><text class="leg" x="102" y="0">LANGUAGES</text>
+    <circle cx="225" cy="-4" r="5" fill="#566074"/><text class="leg" x="237" y="0">TOOLING &amp; OPS</text>
+  </g>
+</svg>

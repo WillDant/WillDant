@@ -1,65 +1,22 @@
 <div align="center">
 
-<img src="./agentic-banner.svg" width="100%" alt="Willian Dantas - Agentic Engineer" />
+### `Willian Dantas` · [@Willdant](https://github.com/Willdant)
 
-<br />
-
-# Willian Dantas
-
-### Agentic Engineer ⚡
-
-**Building AI systems that don't just answer — they act.**
-
-Conversational AI · Automation · Integrations
-
-<br />
-
-<img src="https://img.shields.io/badge/JavaScript-0f1119?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-0f1119?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/n8n-0f1119?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
-<img src="https://img.shields.io/badge/OpenAI-0f1119?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Claude-0f1119?style=for-the-badge&logo=anthropic&logoColor=D97757" />
-<img src="https://img.shields.io/badge/Datadog-0f1119?style=for-the-badge&logo=datadog&logoColor=A78BFA" />
-
-<br /><br />
+<img src="./banner.svg" width="760" alt="Tech stack orbit" />
 
 <a href="https://www.linkedin.com/in/willian-dantas-092b8b215/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0f1119?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0f1119?style=flat-square&logo=linkedin&logoColor=0A66C2" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=Willdant&style=flat-square&color=A78BFA&label=views" alt="views" />
 
 </div>
 
----
-
-## About
-
-I build agents, automations, and integrations that connect language to real execution.
-
-> user intent → reasoning → tools → APIs → real outcome
-
----
-
-## Focus
-
-- AI Agents
-- Workflow Automation
-- API Integrations
-- Conversational Systems
-- Observability
-
----
-
-## Stack
-
-**Languages:** JavaScript, Python  
-**Automation:** n8n  
-**AI:** OpenAI, Claude  
-**Tools:** REST APIs, Git, Docker, Postman, Datadog
-
----
+<br />
 
 <div align="center">
 
-**Turning conversations into systems that execute.**
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Willdant&show_icons=true&hide_border=true&hide_title=true&bg_color=0f1119&icon_color=D97757&text_color=c9d1d9&hide=issues" alt="stats" />
+&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Willdant&hide_border=true&background=0f1119&stroke=1c2030&ring=A78BFA&fire=D97757&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b93a7&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
 </div>
